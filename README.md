@@ -2,10 +2,14 @@
 
 ## My knowledge
 
-* HTML5/CSS3 (without JS)
+**Main**
 * C (weak)
 * Rust (very weak)
 * Assembler (Intel syntax, x86_64 | weak)
+ 
+**Other**
+* HTML5/CSS3 (without JS)
+* Python
 
 ---
 
